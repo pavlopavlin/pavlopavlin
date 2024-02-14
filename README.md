@@ -4,6 +4,3 @@ In my work I use different Hydrological models (HydroGeoSphere, HPP) and my main
 
 My main interests are: catchment hydrology, macropores, climate change and hillslope processes.
 I am currently learning more about data science and data analytics.
-
-You can reach me at:
-lovrenc.pavlin@outlook.com
